@@ -1,2 +1,1 @@
-# morbius
-For my science project in the next few months (after the lexios finished)
+For my future science projects, after lexios finished
